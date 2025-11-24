@@ -7,8 +7,8 @@
 
 ## ✨ About Me ✨
 
-* 👩‍🎓 Etudiante à l'**IIM Digital School** en 3ème année dans l'axe Coding et Digital Innovation
-* 📚 En apprentissage **Front-end** et **Back-end**
+* 👩‍🎓 Etudiante à l'**ESILV** en 1ère année de MSc Computer Science & Data Science
+* 📚 En apprentissage **Ingénierie logiciel**
 * 🐍 Utilisatrice de Django, Python
 * 🦄 Passionnée d'équitation, de lecture et de Barbie
 * 📧 Contactez moi par e-mail à leora.chriqui@edu.devinci.fr
