@@ -7,7 +7,7 @@
 
 ## ✨ About Me ✨
 
-* 👩‍🎓 Etudiante à l'**ESILV** en 1ère année de MSc Computer Science & Data Science
+* 👩‍🎓 Etudiante à l'**ESILV** en 2ème année de MSc Data Engineering & AI
 * 📚 En apprentissage **Ingénierie logiciel**
 * 🐍 Utilisatrice de Django, Python
 * 🦄 Passionnée d'équitation, de lecture et de Barbie
